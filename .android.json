@@ -1,0 +1,1 @@
+{"target_version": 8, "orientation": "sensorLandscape", "package": "com.cytoid.sos", "include_pil": false, "numeric_version": "1", "expansion": false, "name": "Cytoid SoS", "source": false, "icon_name": "Cytoid SoS", "version": "1", "layout": null, "permissions": ["VIBRATE"], "include_sqlite": false, "store": "none"}
